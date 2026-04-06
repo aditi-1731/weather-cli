@@ -1,6 +1,6 @@
 # 🌦️ Weather CLI
 
-A Python-based command-line tool to fetch real-time weather data using OpenWeather API.
+CLI-based Python tool to fetch real-time weather data using OpenWeather API with secure API key handling.
 
 ## 🚀 Features
 
@@ -45,6 +45,15 @@ python weather.py <city>
 ```bash
 python weather.py Delhi
 ```
+
+## 📌 Sample Output
+
+Weather in Delhi:
+----------------------------------------
+🌡️ Temperature : 30°C  
+☁️ Condition   : clear sky  
+💧 Humidity    : 60%  
+🌬️ Wind Speed  : 3.5 m/s  
 
 ## 📌 Notes
 
